@@ -1,5 +1,5 @@
 # Snake-game
-Classic Nokia mobile Snake game recreated using HTML, CSS and Javascript. Used div based grid system to render game board. 
+Snake game recreated using HTML, CSS and Javascript. Used div based grid system to render game board. 
 
 ## Features
 - Game can be started using start button
@@ -17,7 +17,3 @@ Classic Nokia mobile Snake game recreated using HTML, CSS and Javascript. Used d
 - if above conditions are not true then only snake moves forward
 - if next step of snake contains food then increase snake's length and re-calculate scores & level.
 - After above step create new food point randomly. Make sure it falls into game boundary and not in snake's current path.
-
-## To-dos
-- Refactor code for finding new foodpoint.
-- Check if all the points on board are taken by snake and then end game. 
